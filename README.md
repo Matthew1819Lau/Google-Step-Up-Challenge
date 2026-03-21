@@ -1,5 +1,5 @@
 ## What is the project about :question:
-Project name: DIGDATA X GOOGLE – GEMINI PRO MARKETING STRATEGY 
+Project name: [DIGDATA X GOOGLE – GEMINI PRO MARKETING STRATEGY](https://github.com/Matthew1819Lau/Google-Step-Up-Challenge/blob/main/Presentation/Google%20Step%20Up%20live%20online%20career%20challenge_Matthew_Lau.pdf)
 
 - Developed a data-driven multi-channel marketing strategy to increase adoption of Gemini Pro among university students across four regions: United Kingdom 🇬🇧, Germany :de:, Egypt :egypt: and Saudi Arabia :united_arab_emirates:, within an $10M USD budget and 8 weeks timeframe.
 - Analysed 3 datasets (i) Historic Campaign Data, (ii) Brand Lift Study, (iii) Creative Performance Report to address key questions from both the Data Science and Data Strategist perspectives.
