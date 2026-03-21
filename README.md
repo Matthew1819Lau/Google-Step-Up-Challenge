@@ -1,4 +1,6 @@
-# Google-Step-Up-Career-Challenge
+## DIGDATA X GOOGLE STEP UP CHALLENGE – GEMINI PRO MARKETING STRATEGY 
+
+
 The Google Step Up Career Challenge is an online career challenge that helps Google launch a multi-market digital marketing campaign to reach and engage university students about Gemini Pro.
 It includes two routes: The Data Science Route and The Data Strategist Route. 
 
