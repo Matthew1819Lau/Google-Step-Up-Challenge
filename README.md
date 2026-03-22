@@ -14,7 +14,7 @@ Project name: [DIGDATA X GOOGLE – GEMINI PRO MARKETING STRATEGY](https://githu
 
 <img width="297" height="588" alt="image" src="https://github.com/user-attachments/assets/f9d8a906-be16-4206-aac3-fe3b8c498eaa" /><img width="362" height="380" alt="image" src="https://github.com/user-attachments/assets/e8dcab04-b004-4f3c-b277-ba4f05138099" />
     
-## What I learned :heavy_exclamation_mark:
+## What I learnt :heavy_exclamation_mark:
 - Presented results within strict page limits for non-technical audience was one of the most challenging aspects.
 - Ensured clarity and conciseness in communication required significant effort in structuring and organising the content
 - This project provided valuable hands-on experience in solving complex, real-world data analyst problems.
